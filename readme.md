@@ -11,3 +11,10 @@
 - contentores
 - compreensão de listas
 - i/o de arquivos
+
+## 2. Orientação a objetos
+
+- classes, objetos e `self`
+- função "construtora", propriedades e métodos
+- encapsulamento e coesão do código
+- métodos e atributos estáticos
