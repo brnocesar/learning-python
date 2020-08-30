@@ -16,7 +16,7 @@
 
 - Classes, objetos e `self`
 - Propriedades e métodos
-  - _Dunder methods_
+  - _Dunder methods_ (métodos especiais)
     - Função "construtora" (`__init__`)
     - Representação textual de um objeto (`__str__`)
     - Representação lógica de um objeto(`__repr__`)
@@ -39,3 +39,10 @@
 - Herança múltipla
   - _Method Resolution Order_ (MRO)
   - Mixins
+
+## 3. _Strings_
+
+- O que são _strings_?
+- Fatiando _strings_
+- Expressões regulares
+- Métodos especiais
