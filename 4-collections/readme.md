@@ -20,3 +20,13 @@
     - `__lt__` (_less than_)
   - _functools_
     - `total_ordering`
+
+## Parte 2
+
+- Conjuntos (_Sets_)
+  - operadores `|`, `&`, `-` e `^`
+  - `frozenset()`
+- Dicionários
+  - iteradores
+  - `defaultdict`
+  - `Counter`

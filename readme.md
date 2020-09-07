@@ -68,3 +68,5 @@
     - `__lt__` (_less than_)
   - _functools_
     - `total_ordering`
+- Conjuntos
+- Dicionários
