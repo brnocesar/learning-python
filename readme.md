@@ -36,6 +36,7 @@
     - _Python data (object) model_: inicialização, representação, container, numéricos
 - Classes abstratas
   - Interfaces: _Abstract Base Classes_ (ABC)
+  - Métodos abstratos
 - Herança múltipla
   - _Method Resolution Order_ (MRO)
   - Mixins
@@ -46,3 +47,24 @@
 - Fatiando _strings_
 - Expressões regulares
 - Métodos especiais
+
+## 4 Collections
+
+- Listas
+- Tuplas
+- Lista de tuplas
+- Tupla de objetos
+- Heraça e polimorfismo
+- _Array_ e Numpy
+- Igualdade e o `__eq__`
+- Outras _built in functions_
+  - `enumerate`
+  - `range`
+  - desempacotamento de tuplas
+- Ordenação
+  - _in place_
+  - _lazy loading_
+  - ordem natural
+    - `__lt__` (_less than_)
+  - _functools_
+    - `total_ordering`
