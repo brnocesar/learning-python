@@ -70,3 +70,14 @@
     - `total_ordering`
 - Conjuntos
 - Dicionários
+
+## 5 Validação de dados nacionais
+
+- Validação de CPF e CNPJ com pacotes externos
+- Expressões regulares
+  - Telefone
+  - E-mail
+- Datas
+  - biblioteca `datetime`
+- CEP
+  - usando um _web service_
