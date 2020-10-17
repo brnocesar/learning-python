@@ -1,14 +1,13 @@
-# testes
+# testes de unidade
 
-- Teste de unidade
-  - TDD e boas práticas
-  - Biblioteca `unittest`
-    - cenários isolados (`setUp()`)
-  - Biblioteca `pytest`
-    - cenários isolados (_fixtures_ e injeção de dependências)
-  - Classes de equivalência
-  - Gerenciador de contextos (`with`)
-  - Exceções
+- TDD e boas práticas
+- Biblioteca `unittest`
+  - cenários isolados (`setUp()`)
+- Biblioteca `pytest`
+  - cenários isolados (_fixtures_ e injeção de dependências)
+- Classes de equivalência
+- Gerenciador de contextos (`with`)
+- Exceções
 
 ## Rodando testes de unidade com `unittest`
 
